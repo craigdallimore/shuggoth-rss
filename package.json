@@ -1,0 +1,14 @@
+{
+  "name": "hprss",
+  "version": "0.0.0",
+  "description": "A little RSS thing for getting lovecraft titles",
+  "main": "server.js",
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "feedparser": "~0.16.5",
+    "request": "~2.30.0",
+    "curlrequest": "~0.3.10",
+    "lodash": "~2.4.1"
+  }
+}
